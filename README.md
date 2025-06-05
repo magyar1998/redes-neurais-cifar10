@@ -51,5 +51,5 @@ Após o treinamento, o modelo é avaliado no conjunto de teste para medir a acur
 
 ### 6. Conclusão
 
-Com a arquitetura proposta, foi possível atingir uma acurácia de aproximadamente 75% no conjunto de teste.
+Com a arquitetura proposta, foi possível atingir uma acurácia de aproximadamente 76% no conjunto de teste.
 
