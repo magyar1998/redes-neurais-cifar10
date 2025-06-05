@@ -20,7 +20,7 @@ O **CIFAR-10** é um conjunto de dados amplamente utilizado em tarefas de visão
 
 - **Carregamento:** Utilização do dataset CIFAR-10 via Keras.
 - **Normalização:** Conversão dos pixels para o intervalo [0, 1].
-- **One-hot encoding:** Conversão dos rótulos para o formato categórico.
+- **to_categorical:** Conversão dos rótulos para o formato categórico.
 
 ### 2. Construção do Modelo
 
