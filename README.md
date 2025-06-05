@@ -53,3 +53,9 @@ Após o treinamento, o modelo é avaliado no conjunto de teste para medir a acur
 
 Com a arquitetura proposta, foi possível atingir uma acurácia de aproximadamente 76% no conjunto de teste.
 
+### 7. Arquivos
+
+redes_neurais_cifar10.ipynb - Arquitetura da Rede Neural escolhida.
+
+modelagem_redes_neurais.ipynb - Performance de todas as redes simuladas.
+
